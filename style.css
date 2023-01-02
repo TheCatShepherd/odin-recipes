@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Verdana, sans-serif;
+}
+
+img {
+ height: 500px;
+ width: auto;   
+}
+
+h1{
+    color: blue;
+    background-color: #ff000080;
+}
+
+h2,
+h3,
+h4{
+    color:rgb(155, 129, 15)
+}
+
+p{
+    font-size: 18px;
+    text-align: left;
+}
+
+li{
+    font-size: 18px;
+    text-align: left;
+}
